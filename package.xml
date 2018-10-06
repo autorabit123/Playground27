@@ -227,6 +227,8 @@
         <members>Bot_Command__c.Apex_Class__c</members>
         <members>Bot_Command__c.Pattern__c</members>
         <members>Bot_Command__c.Sample_Utterance__c</members>
+        <members>Broker__c.Broker_Fld__c</members>
+        <members>Broker__c.Broker_Text__c</members>
         <members>Broker__c.Email__c</members>
         <members>Broker__c.Mobile_Phone__c</members>
         <members>Broker__c.Phone__c</members>
@@ -686,6 +688,7 @@
         <members>Property__c.Picture_IMG__c</members>
         <members>Property__c.Picture__c</members>
         <members>Property__c.Price__c</members>
+        <members>Property__c.Property_Fld__c</members>
         <members>Property__c.Record_Link__c</members>
         <members>Property__c.State__c</members>
         <members>Property__c.Status__c</members>
